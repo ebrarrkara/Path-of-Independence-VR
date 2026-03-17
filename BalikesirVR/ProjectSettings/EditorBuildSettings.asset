@@ -4,5 +4,35 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/01_Merkez.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/02_Ayvalik.unity
+    guid: 4a626ebeecd26c04dadaa7c284768675
+  - enabled: 1
+    path: Assets/Scenes/03_Burhaniye.unity
+    guid: 5f58766814cea4f43ad8c7ce521e82ba
+  - enabled: 1
+    path: Assets/Scenes/04_Edremit.unity
+    guid: 64485ed295e16654c9b75b4d62bf6fc9
+  - enabled: 1
+    path: Assets/Scenes/05_Havran.unity
+    guid: 943c1ca42ca4f6c469107e492fcc8e5e
+  - enabled: 1
+    path: Assets/Scenes/06_Sindirgi.unity
+    guid: c3cff919c8412524282aaa30cccd2c81
+  - enabled: 1
+    path: Assets/Scenes/07_Savastepe.unity
+    guid: e39a56e929089484cb7f3b4a7ca52b63
+  - enabled: 1
+    path: Assets/Scenes/08_Bandirma.unity
+    guid: f1eeb6e0418ed064f8dc04474ec5799c
+  - enabled: 1
+    path: Assets/Scenes/09_Bigadic.unity
+    guid: 0e79cd69859c2a84bae5cbec119cfc7b
+  - enabled: 1
+    path: Assets/Scenes/10_Gonen.unity
+    guid: d1ab4232689b6634d927685246b98a69
   m_configObjects: {}
